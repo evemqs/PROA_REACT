@@ -31,7 +31,7 @@ function App() {
       profissao={"Dev"} 
       />
       <Formulario />
-      <MultiFormulario />
+      <MultiFieldForm />
     </div>
   )
 }
